@@ -1,0 +1,5 @@
+{
+  "name": "Painel de Controle Investigativo",
+  "description": "Uma aplicação de painel de controle para gerenciar e visualizar dados de investigações criminais, incluindo casos, suspeitos, detetives, vítimas e testemunhas.",
+  "requestFramePermissions": []
+}
